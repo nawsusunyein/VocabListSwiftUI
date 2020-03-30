@@ -16,6 +16,7 @@
 		6A5F8F2624318DDB00A37D51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A5F8F2424318DDB00A37D51 /* LaunchScreen.storyboard */; };
 		6A5F8F3124318DDB00A37D51 /* VocabListSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F8F3024318DDB00A37D51 /* VocabListSwiftUITests.swift */; };
 		6A5F8F3C24318DDB00A37D51 /* VocabListSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F8F3B24318DDB00A37D51 /* VocabListSwiftUIUITests.swift */; };
+		6A5F8F4A2431957600A37D51 /* VocabListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5F8F492431957600A37D51 /* VocabListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6A5F8F3724318DDB00A37D51 /* VocabListSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocabListSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A5F8F3B24318DDB00A37D51 /* VocabListSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabListSwiftUIUITests.swift; sourceTree = "<group>"; };
 		6A5F8F3D24318DDB00A37D51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A5F8F492431957600A37D51 /* VocabListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				6A5F8F2724318DDB00A37D51 /* Info.plist */,
 				6A5F8F1A24318DD700A37D51 /* VocabListSwiftUI.xcdatamodeld */,
 				6A5F8F2124318DDB00A37D51 /* Preview Content */,
+				6A5F8F492431957600A37D51 /* VocabListView.swift */,
 			);
 			path = VocabListSwiftUI;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				6A5F8F1C24318DD700A37D51 /* VocabListSwiftUI.xcdatamodeld in Sources */,
 				6A5F8F1E24318DD700A37D51 /* ContentView.swift in Sources */,
 				6A5F8F1924318DD700A37D51 /* SceneDelegate.swift in Sources */,
+				6A5F8F4A2431957600A37D51 /* VocabListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
